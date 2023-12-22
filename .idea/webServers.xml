@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="7f036664-6118-4dcd-a9b5-2e8cab96576d" name="openai.itkoo.kr">
+        <fileTransfer rootFolder="/var/www/html/openai" accessType="SFTP" host="itkoo.kr" port="22" sshConfigId="1561cba3-ad72-4e93-8422-b85c4e7ae5b9" sshConfig="itkoo@itkoo.kr:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
