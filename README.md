@@ -5,7 +5,7 @@
 
 - <a href="http://openai.itkoo.kr">서비스 링크</a>
 - <a href="https://colab.research.google.com/drive/1CKfAUHTwjHNii0wPwI2W3q1Y15Zg2-W4?usp=sharing">AI 모델 Colab 링크</a>
-- <a href="https://github.com/ITKOO/AI-Based-Detecting-Defects-in-Apartments-Website">웹사이트 Github Repository</a>
+- <a href="https://github.com/ITKOO/AI-Based-Detecting-Defects-in-Apartments-Website">AI Github Repository</a>
 <br>
 
 ## 팀원 정보
